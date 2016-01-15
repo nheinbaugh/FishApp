@@ -1,0 +1,24 @@
+{
+  "name": "FishApp.Api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nheinbaugh/FishApp.git"
+  },
+  "author": "Nick Heinbaugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nheinbaugh/FishApp/issues"
+  },
+  "homepage": "https://github.com/nheinbaugh/FishApp",
+  "dependencies": {
+    "express": "^4.13.3",
+    "q": "^1.4.1",
+    "underscore": "^1.8.3"
+  }
+}
